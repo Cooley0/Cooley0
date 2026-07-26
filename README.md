@@ -1,28 +1,25 @@
 <h1>Hello, I'm Joseph Cooley</h1>
-
 <p>
   <a href="https://linkedin.com/in/joseph-cooley-4145341b9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 I'm a recent Cybersecurity graduate (B.A.S., Magna Cum Laude — Columbia Basin College) based in the Tri-Cities, WA. Most of what's below started as a personal lab project, not a class assignment.
 
 ## Objective
-
 I'm looking to break into cybersecurity — SOC, GRC, IT Support, Red Team, or IAM. I'm open to where I land first and focused on building hands-on experience from there.
 
 ## Skills
-
 | Skill | Associated Project |
 |---|---|
 | SIEM Implementation and Log Analysis | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
 | File Integrity Monitoring | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
 | Active Directory Security & Attack Simulation | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
 | Framework Mapping (MITRE ATT&CK) | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
+| LLM Vulnerability Scanning & Prompt Injection Testing | [LLM Red Teaming Lab](https://github.com/Cooley0/LLM-RedTeam-Lab) |
+| Framework Mapping (OWASP LLM Top 10) | [LLM Red Teaming Lab](https://github.com/Cooley0/LLM-RedTeam-Lab) |
 
 ## Tools
-
 **Operating Systems & Virtualization**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -50,6 +47,13 @@ I'm looking to break into cybersecurity — SOC, GRC, IT Support, Red Team, or I
   <img src="https://img.shields.io/badge/Atomic_Red_Team-C4262E?style=flat-square" />
 </p>
 
+**AI Security**
+<p>
+  <img src="https://img.shields.io/badge/Garak-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Llama_3.2-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
+
 **Cloud**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -60,9 +64,9 @@ I'm looking to break into cybersecurity — SOC, GRC, IT Support, Red Team, or I
 **Frameworks**
 <p>
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C4262E?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/NIST-1a1a1a?style=flat-square" />
 </p>
 
 ## Contact
-
 📫 Cooley1115@gmail.com — Email is the best way to reach me.
