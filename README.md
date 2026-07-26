@@ -12,12 +12,12 @@ I'm looking to break into cybersecurity — SOC, GRC, IT Support, Red Team, or I
 ## Skills
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation and Log Analysis | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
-| File Integrity Monitoring | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
-| Active Directory Security & Attack Simulation | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
-| Framework Mapping (MITRE ATT&CK) | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
 | LLM Vulnerability Scanning & Prompt Injection Testing | [LLM Red Teaming Lab](https://github.com/Cooley0/LLM-RedTeam-Lab) |
 | Framework Mapping (OWASP LLM Top 10) | [LLM Red Teaming Lab](https://github.com/Cooley0/LLM-RedTeam-Lab) |
+| Active Directory Security & Attack Simulation | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
+| Framework Mapping (MITRE ATT&CK) | [Active Directory Home Lab](https://github.com/Cooley0/Active-Directory-Homelab) |
+| SIEM Implementation and Log Analysis | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
+| File Integrity Monitoring | [Wazuh SIEM Home Lab](https://github.com/Cooley0/Wazuh-SIEM-HomeLab) |
 
 ## Tools
 **Operating Systems & Virtualization**
